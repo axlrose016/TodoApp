@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo-app-server", "todo-app-server\todo-app-server.csproj", "{FF92A4DD-AB12-48F1-9505-869BBE626BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo-app-repository", "todo-app-repository\todo-app-repository.csproj", "{E71416A1-DCB4-452A-9EC8-4F0D2C1F4CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF92A4DD-AB12-48F1-9505-869BBE626BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF92A4DD-AB12-48F1-9505-869BBE626BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF92A4DD-AB12-48F1-9505-869BBE626BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF92A4DD-AB12-48F1-9505-869BBE626BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71416A1-DCB4-452A-9EC8-4F0D2C1F4CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71416A1-DCB4-452A-9EC8-4F0D2C1F4CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71416A1-DCB4-452A-9EC8-4F0D2C1F4CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71416A1-DCB4-452A-9EC8-4F0D2C1F4CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCEB28A6-C4BC-4F01-896F-2EDB54DB6D54}
+	EndGlobalSection
+EndGlobal
